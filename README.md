@@ -36,7 +36,7 @@ This end-to-end data science project is backed by a simulated e-commerce dataset
 | **Streamlit** | Web application and dashboard UI |
 | **SQLAlchemy** | Database connection and queries |
 | **MySQL** | Relational data storage |
-| **Pandas, NumPy, Scikit-learn, Statsmodels** | Data analysis & modeling |
+| **Pandas, NumPy, Scikit-learn** | Data analysis & modeling |
 
 ---
 
